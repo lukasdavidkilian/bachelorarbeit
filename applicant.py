@@ -1,4 +1,3 @@
-import job
 from application import Application
 
 
